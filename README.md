@@ -1,4 +1,4 @@
-WEEK-1assidnment task1:https://github.com/abhiramkonduri/AIML2024/blob/main/2203A51820(1).ipynb
+WEEK-1assignment task1:https://github.com/abhiramkonduri/AIML2024/blob/main/2203A51820(1).ipynb
 
 week1 assignment task2:https://github.com/abhiramkonduri/AIML2024/blob/main/2203A51820(2).ipynb
 
